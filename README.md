@@ -9,5 +9,5 @@ This is an Entry-level Android project for HCI course.
 •	Finished painting app allowing user to draw image and providing user painting kits to pick color, brush and shape
 
 #### DEMO:  
-![](https://github.com/JiangtaoXu93/AndroidPaintingApp/painting_demo.png)
+![](https://github.com/JiangtaoXu93/AndroidPaintingApp/blob/master/painting_demo.png)
 
