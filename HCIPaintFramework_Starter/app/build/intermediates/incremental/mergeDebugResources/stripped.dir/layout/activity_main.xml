@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/MainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:minHeight="112dp"
+        android:orientation="vertical"
+        android:visibility="visible"
+        tools:context=".MainActivity" android:tag="layout/activity_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+
+        <com.example.hcipaintframework.MyCanvasView
+            android:id="@+id/canvasView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:visibility="visible"
+            app:layout_constraintHeight_default="percent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ToggleButton
+            android:id="@+id/TogBLine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Test"
+            android:visibility="invisible"
+            app:layout_constraintBaseline_toBaselineOf="@+id/canvasView"
+            app:layout_constraintRight_toLeftOf="@+id/ClearAll" />
+
+        <Button
+            android:id="@+id/ClearAll"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="@drawable/trash_can"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/canvasView"
+            tools:text="Color" />
+
+
+        <TextView
+            android:id="@+id/Brush"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/paint_brush"
+            app:layout_constraintBottom_toTopOf="@+id/Shapes"
+            app:layout_constraintRight_toLeftOf="@+id/ColorPicker" />
+
+        <Spinner
+            android:id="@+id/BrushSize"
+            android:layout_width="30dp"
+            android:layout_height="32dp"
+            android:layout_marginRight="16dp"
+            android:entries="@array/brush_size"
+            android:background="@null"
+            app:layout_constraintBottom_toTopOf="@+id/Shapes"
+            app:layout_constraintRight_toLeftOf="@+id/ColorPicker"></Spinner>
+
+        <Button
+            android:id="@+id/ColorPicker"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="@drawable/color_picker"
+            app:layout_constraintBottom_toTopOf="@+id/Shapes"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            tools:text="Color" />
+
+        <Switch
+            android:id="@+id/IsFillIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:drawableLeft="@drawable/filin"
+            app:layout_constraintBottom_toTopOf="@+id/Shapes"
+            app:layout_constraintLeft_toRightOf="@+id/ColorPicker" />
+
+        <LinearLayout
+            android:id="@+id/Shapes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="@+id/canvasView"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent">
+
+            <RadioGroup
+                android:id="@+id/ShapeGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checkedButton="@+id/LineShape"
+                android:orientation="horizontal">
+                <RadioButton
+                    android:id="@+id/LineShape"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/lines"/>
+
+                <RadioButton
+                    android:id="@+id/CurveShape"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/curves" />
+
+                <RadioButton
+                    android:id="@+id/RectangleShape"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/rectangle"/>
+
+                <RadioButton
+                    android:id="@+id/OvalShape"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/ellipse" />
+
+
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </android.support.constraint.ConstraintLayout>
+         

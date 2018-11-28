@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.databinding:adapters:3.2.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/adapters-3.2.0.aar/9fa8ff1a56c7653522b0d063e6ca999f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/library-3.2.0.aar/2b52f458905b8f075435ca5b188bbd65/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.duanhong169:colorpicker:1.1.1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/colorpicker-1.1.1.aar/e2af2421d4593c9fbd54a1fc278dd1a3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.duanhong169:checkerboarddrawable:1.0.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/checkerboarddrawable-1.0.2.aar/61e9c01abdb40ca64687ee3480db85bf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/59ec05ae1b5384e4e4eaadd37e587bd1/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/2ac562e02d412a95482f98b391b95a59/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/17640ca1cfa706f56e0e0b9afc1ff73a/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/d2d633ef1c1be0ac97c8fea02dcf2dbe/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/23781a29f77fffe490dc34df79f20d52/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/65a88ef6a4c16cf9a93f98dba0a6ca79/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/08eca5f98d83f7e7bf16b0a5fa947b15/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/71c4237d2b54835493e86ec303a3b1fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2f01bb371a8970888471620b21dc6b61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/053ad5b9b993c9eed7de893a84db9a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/7a67c25f9de54ca4639355d7641d851d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/4e390a2d288333d6a9afa821cba2d5f4/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/a5984c2d8a3ef957d524fa7439012ae5/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/3046a2b36346efedff19266b9b5dbe8f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/49cbdd5da13c6d19c57b60fab1b33275/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/6bdf675ea46bc220e200c088d982cdae/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2e603ba72dc0ad5c4cd4babccc087406/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/710624b1fb01ca5a9cebc6b05c82c57f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d711020dc25f2e55bef3f8e3d395cb00/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e97e5b149a3fc900419f982aef58b091/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/298f77278049627b8bbe5bdc13c4fb12/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/9f8604deae30dc2368b976098a0f42b8/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/4bd01be66d5bbea95f4add267cb2da31/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/f42fa085aca4c028de19b6e42330e8e6/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/6be1e0478e8442cec0e1002f7d1a438b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/97ccb578a465dbfc32e824cdd4f8a34b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.duanhong169:logger:1.0.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/logger-1.0.0.aar/7fa06c76d0037e41bb6691d0ed723f58/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/97ccb578a465dbfc32e824cdd4f8a34b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/97ccb578a465dbfc32e824cdd4f8a34b/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.hcipaintframework.MainActivity
+ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/adapters-3.2.0.aar/9fa8ff1a56c7653522b0d063e6ca999f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/adapters-3.2.0.aar/9fa8ff1a56c7653522b0d063e6ca999f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/library-3.2.0.aar/2b52f458905b8f075435ca5b188bbd65/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/library-3.2.0.aar/2b52f458905b8f075435ca5b188bbd65/AndroidManifest.xml:22:5-44
+MERGED from [com.github.duanhong169:colorpicker:1.1.1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/colorpicker-1.1.1.aar/e2af2421d4593c9fbd54a1fc278dd1a3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.duanhong169:colorpicker:1.1.1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/colorpicker-1.1.1.aar/e2af2421d4593c9fbd54a1fc278dd1a3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.duanhong169:checkerboarddrawable:1.0.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/checkerboarddrawable-1.0.2.aar/61e9c01abdb40ca64687ee3480db85bf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.duanhong169:checkerboarddrawable:1.0.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/checkerboarddrawable-1.0.2.aar/61e9c01abdb40ca64687ee3480db85bf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/59ec05ae1b5384e4e4eaadd37e587bd1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/59ec05ae1b5384e4e4eaadd37e587bd1/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/2ac562e02d412a95482f98b391b95a59/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/2ac562e02d412a95482f98b391b95a59/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/17640ca1cfa706f56e0e0b9afc1ff73a/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/17640ca1cfa706f56e0e0b9afc1ff73a/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/d2d633ef1c1be0ac97c8fea02dcf2dbe/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/d2d633ef1c1be0ac97c8fea02dcf2dbe/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/23781a29f77fffe490dc34df79f20d52/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/23781a29f77fffe490dc34df79f20d52/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/65a88ef6a4c16cf9a93f98dba0a6ca79/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/65a88ef6a4c16cf9a93f98dba0a6ca79/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/08eca5f98d83f7e7bf16b0a5fa947b15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/08eca5f98d83f7e7bf16b0a5fa947b15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/71c4237d2b54835493e86ec303a3b1fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/71c4237d2b54835493e86ec303a3b1fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2f01bb371a8970888471620b21dc6b61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2f01bb371a8970888471620b21dc6b61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/053ad5b9b993c9eed7de893a84db9a8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/053ad5b9b993c9eed7de893a84db9a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/7a67c25f9de54ca4639355d7641d851d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/7a67c25f9de54ca4639355d7641d851d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/4e390a2d288333d6a9afa821cba2d5f4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/4e390a2d288333d6a9afa821cba2d5f4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/a5984c2d8a3ef957d524fa7439012ae5/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/a5984c2d8a3ef957d524fa7439012ae5/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/3046a2b36346efedff19266b9b5dbe8f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/3046a2b36346efedff19266b9b5dbe8f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/49cbdd5da13c6d19c57b60fab1b33275/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/49cbdd5da13c6d19c57b60fab1b33275/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/6bdf675ea46bc220e200c088d982cdae/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/6bdf675ea46bc220e200c088d982cdae/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2e603ba72dc0ad5c4cd4babccc087406/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/2e603ba72dc0ad5c4cd4babccc087406/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/710624b1fb01ca5a9cebc6b05c82c57f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/710624b1fb01ca5a9cebc6b05c82c57f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d711020dc25f2e55bef3f8e3d395cb00/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d711020dc25f2e55bef3f8e3d395cb00/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e97e5b149a3fc900419f982aef58b091/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e97e5b149a3fc900419f982aef58b091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/298f77278049627b8bbe5bdc13c4fb12/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/298f77278049627b8bbe5bdc13c4fb12/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/9f8604deae30dc2368b976098a0f42b8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/9f8604deae30dc2368b976098a0f42b8/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/4bd01be66d5bbea95f4add267cb2da31/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/4bd01be66d5bbea95f4add267cb2da31/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/f42fa085aca4c028de19b6e42330e8e6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/f42fa085aca4c028de19b6e42330e8e6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/6be1e0478e8442cec0e1002f7d1a438b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/6be1e0478e8442cec0e1002f7d1a438b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/97ccb578a465dbfc32e824cdd4f8a34b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/97ccb578a465dbfc32e824cdd4f8a34b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.duanhong169:logger:1.0.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/logger-1.0.0.aar/7fa06c76d0037e41bb6691d0ed723f58/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.duanhong169:logger:1.0.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/logger-1.0.0.aar/7fa06c76d0037e41bb6691d0ed723f58/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jiangtao/Documents/Study/NEU/HCI/HCIPaintFramework_Starter/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/jiangtao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3cd91968d6d8ebfb7c3f1040d7c56751/AndroidManifest.xml:24:13-83
